@@ -1,0 +1,7 @@
+div.main {
+  border: 1px solid black;
+  width: 100px;
+  height: 200px;
+  background: blue;
+  padding: 20px;
+}
